@@ -21,7 +21,7 @@ Download Node-Red Flow from https://github.com/farahkarim/NodeRedFlows/blob/mast
 
 2. Add jar files of CustomizedCSPARQL-engine-OnDFS to the project
 
-3. Start the Node-Red flow by clicking on the insert record node
+3. Add the path to the downloaded sample data in Read a file node. Start the Node-Red flow by clicking on the insert record node
 
 4. Run the Server class in OnDemandFactorizationAndSemantificationV4
 
