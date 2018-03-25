@@ -27,3 +27,5 @@ Download Node-Red Flow from https://github.com/farahkarim/NodeRedFlows/blob/mast
 
 5. Run the Client class in OnDemandFactorizationAndSemantificationV4 and give the path to the input CSPARQL query
 
+6. Click on "Insert Records" to start stream of data.
+
